@@ -12,12 +12,12 @@ for mathematical, academic, and technical documents.
 - Clean two-column academic layout
 
 ## Contents
-- `main.tex` — the LaTeX source
+- `hashmi_labs_latex_typesetting_portfolio.tex` — the LaTeX source
 - `hashmi_labs___LaTeX_Typesetting_Portfolio.pdf` — the compiled output
 
 ## Compile it yourself
 ```bash
-pdflatex main.tex
+pdflatex hashmi_labs_latex_typesetting_portfolio.tex
 ```
 Requires a standard TeX distribution (TeX Live / MiKTeX) with `amsmath`,
 `booktabs`, `tikz`, `pgfplots`, and `hyperref` — all standard packages,
